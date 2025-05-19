@@ -1,0 +1,10 @@
+[project]
+name = "pyvk"
+version = "0.0.0"
+description = "pytorch cnn backend for glsl and vulkan."
+authors = [{name = "Karl Sassie", email = "karlsasssie@gmail.com"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
